@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - include:
+      file: student.changelog.sql
+      relativeToChangelogFile: true
+
+
